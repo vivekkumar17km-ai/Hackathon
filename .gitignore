@@ -1,5 +1,10 @@
-node_modules/
-**/node_modules/
-dist/
-**/dist/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+*.db
+*.sqlite
+*.sqlite3
 .env
+
